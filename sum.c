@@ -1,10 +1,9 @@
+#define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 int main()
 {
-	int a = 0;
-	int b = 0;
-	int sum = a + b;
-	scanf_s("%d,%d",&a,&b);
-	printf("sum = %d\n",sum);
+	int a,b;
+	scanf("%d,%d",&a,&b);
+	printf("sum = %d\n",a+b);
 	return 0;
 }

@@ -1,0 +1,4 @@
+﻿  text.c
+E:\C1\圣诞树\圣诞树\text.c(45,27): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+E:\C1\圣诞树\圣诞树\text.c(59,22): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+E:\C1\圣诞树\圣诞树\text.c(83,29): warning C4305: “函数”: 从“double”到“float”截断
